@@ -2,6 +2,10 @@ import BlockChain
 import Block
 from datetime import datetime
 
+class Object:
+    def __init__(self):
+        
+
 class Miner:    
 
     def __init__(self,blockChain):
